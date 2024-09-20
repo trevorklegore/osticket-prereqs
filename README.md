@@ -1,6 +1,6 @@
 # osticket-prereqs
 <p align="center">
-[image](https://github.com/user-attachments/assets/f9407cf4-922a-43fd-83e8-7260802750ca)
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
